@@ -4,7 +4,7 @@
 
     <groupId>pl.devcoffee</groupId>
     <artifactId>jee-health</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>jee-health</name>
@@ -49,7 +49,7 @@
         <connection>scm:git:https://github.com/PiotrRaszkowski/jee-health</connection>
         <url>scm:git:https://github.com/PiotrRaszkowski/jee-health</url>
         <developerConnection>scm:git:https://github.com/PiotrRaszkowski/jee-health</developerConnection>
-        <tag>jee-health-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
