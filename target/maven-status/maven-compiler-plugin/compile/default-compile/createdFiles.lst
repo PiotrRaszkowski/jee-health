@@ -1,0 +1,6 @@
+pl\devcofee\jeehealth\boundary\HealthResource.class
+pl\devcofee\jeehealth\control\JNDILister.class
+pl\devcofee\jeehealth\control\ServerInfo.class
+pl\devcofee\jeehealth\control\ConfigurationPropertiesProvider.class
+pl\devcofee\jeehealth\control\OSInfoProvider.class
+pl\devcofee\jeehealth\JAXRSConfiguration.class
